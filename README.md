@@ -1,4 +1,4 @@
-<h3 align="center">Hi, There🙌🏼</h3>
+<h3 align="center">Hi, There!</h3>
 
 
 <p align="center"> My Techs that I've used at least once</h3>
