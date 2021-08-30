@@ -12,8 +12,8 @@
  <img src ="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
  <br/>
  <img src ="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp
- <img src ="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
- <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>&nbsp
+ <img src ="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
 </p>
  
  
