@@ -21,10 +21,4 @@
  
  
  <h4 align="center">🍇 About ME 🍇</h3>
- 
- 
- 
- <p align = "center">
-  <a href = "mailto:psj980811@gmail.com"><img src ="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
- </p>
 
